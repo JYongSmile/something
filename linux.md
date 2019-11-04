@@ -1,9 +1,5 @@
 服务器
-ai:ai69_wljlsa2017@
-192.168.25.69
 
-
-192.168.48.194
 
 nvidia-smi
 source ~/.bashrc
