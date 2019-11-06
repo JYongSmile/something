@@ -8,3 +8,9 @@ something to remember
 
 # docker   
 docker GPU 配置 https://blog.csdn.net/xykenny/article/details/90747921  
+
+# someblog  
+## -image  
+### https://www.cnblogs.com/Imageshop/
+
+
